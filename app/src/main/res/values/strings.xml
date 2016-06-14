@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XdLibBook</string>
+    <string name="get_failed">您的学号或密码有误,请查证</string>
+</resources>
